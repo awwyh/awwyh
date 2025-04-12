@@ -11,5 +11,5 @@ while unknown front-end developer ///
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## for contact (ru and eng
-https://t.me/rokyrou 
+https://t.me/rokyrou | 
 jolyka9@gmail.com
