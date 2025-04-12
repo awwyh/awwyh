@@ -10,6 +10,6 @@ while unknown front-end developer ///
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## for contact (ru and eng
+## for contact (ru and eng)
 https://t.me/rokyrou | 
 jolyka9@gmail.com
