@@ -2,6 +2,11 @@
 
 while unknown front-end developer ///
 
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
+        quidem ut nobis quasi, consequuntur aperiam praesentium numquam harum
+        suscipit, accusamus omnis molestiae, dolorem ipsam. Fugit, alias at?
+        Magni, quas earum!
+
 ## my teck stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
