@@ -2,7 +2,7 @@
 
 while unknown front-end developer ///
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Lorem+ispum+dolor+sit+amet+consecterur+adipisicing elit.+Voluptatum+quidem+ut+nobis+quasi,+consequuntur+aperiam+praesentium+numquam+huram+suscipit+accusamus+omnis+molestiae,+dolerem+ispam.+Fugit,+alias+at?+Magni,+quas+earum!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satoshi&weight=900&size=28&pause=1000&width=900&height=100&lines=++Lorem+ipsum+dolor+sit+amet+consectetur+adipisicing+elit.)](https://git.io/typing-svg)
 
 ## my teck stack :L:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
