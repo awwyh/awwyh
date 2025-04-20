@@ -7,7 +7,7 @@ while unknown front-end developer ///
         suscipit, accusamus omnis molestiae, dolorem ipsam. Fugit, alias at?
         Magni, quas earum!
 
-## my teck stack
+## my teck stack :l:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +15,6 @@ while unknown front-end developer ///
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-## for contact (ru and eng)
+## for contact (ru/eng)
 https://t.me/rokyrou | 
 jolyka9@gmail.com
