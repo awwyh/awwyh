@@ -1,6 +1,7 @@
 ## sup (~*)
 
 while unknown front-end developer ///
+![my portfolite website](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satoshi&weight=900&size=28&pause=1000&width=900&height=100&lines=++Lorem+ipsum+dolor+sit+amet+consectetur+adipisicing+elit.)](https://git.io/typing-svg)
 
