@@ -18,4 +18,3 @@ while unknown front-end developer ///
 ## for contact (ru/eng)
 https://t.me/rokyrou | 
 jolyka9@gmail.com
-![alt text](https://storage.googleapis.com/gweb-prompt-gallery.appspot.com/publish/images/7pS1yX2sNnIqX0pS4hNq/image.png)
