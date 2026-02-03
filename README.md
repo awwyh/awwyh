@@ -1,4 +1,3 @@
-
 ## sup, im Frontend Engineer (~*)
 
 Crafting interfaces that are not only functional, but meaningful.  
