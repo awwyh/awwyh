@@ -44,17 +44,6 @@ Bridging the gap between creative design and engineering logic.
 <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
----
-
-### 🧩 My Workflow
-
-| Focus | Approach |
-| :--- | :--- |
-| **Architecture** | Scalable folder structure, FSD (Feature-Sliced Design) or Clean Architecture adaptation. |
-| **Performance** | Code splitting, image optimization, memoization, and bundle size monitoring. |
-| **Code Quality** | Strict TS config, ESLint/Prettier, meaningful variable naming, and DRY principles. |
-
----
 
 ### 📬 Let's Connect (RU / ENG)
 
